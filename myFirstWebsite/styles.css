@@ -1,0 +1,50 @@
+header {
+    background-color: #333333;
+}
+h1 {
+color: blue;
+}
+h2,h3,a {
+    color: #ff0099;
+    }
+article{
+text-align: center;
+    }
+body {
+    background-image: url("assets/pattern2.jpg");
+    margin: auto;
+    line-height: 1.5em;
+    font-size: medium;
+    color: #f0f;
+    font-family: "courier";
+    
+}
+.doboz-1 {
+    margin: 10px 20px 10px 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Staatliches';
+}
+.doboz-2 {
+    margin: 10px 20px 10px 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Inconsolata';
+}
+
+footer {
+    color: blue;
+    text-align: center;
+}
+/* 
+Paddings (kitöltés)
+Margins (margó)
+Line-height (sor magasság)
+Font-sizes (betűméret)
+Pozicionáld középre a tartalmat
+10% padding (kitöltés) a két szélen
+Használj valamilyen google betűtípust
+A "Base text font" (vagyis alap betűtípus) legyen consolas vagy courier
+A Header (fejléc) háttérszíne: #333333
+Linkek és alcímek színe: #ff0099
+*/
