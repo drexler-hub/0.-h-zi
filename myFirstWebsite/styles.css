@@ -1,0 +1,39 @@
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: blue;
+}
+
+h2,h3,a {
+    color: #ff0099;
+}
+
+body {
+    background-image: url("assets/topography.png");    
+    margin: auto;
+    line-height: 1.5em;
+    font-size: medium;
+    color: #f0f;
+    font-family: "courier"; 
+}
+
+.doboz-1 {
+    margin: 10px 20px 10px 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Staatliches';
+}
+
+.doboz-2 {
+    margin: 10px 20px 10px 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Inconsolata';
+}
+
+footer {
+    color: blue;
+    text-align: center;
+}
