@@ -10,10 +10,6 @@ h2,h3,a {
     color: #ff0099;
 }
 
-article {
-    text-align: center;
-}
-
 body {
     background-image: url("assets/topography.png");    
     margin: auto;
